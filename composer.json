@@ -23,7 +23,7 @@
     ],
     "require": {
         "craftcms/cms": "^3.0.0-RC1",
-        "spatie/pdf-to-image": "^1.8"
+        "spatie/pdf-to-image": "^2.1.0"
     },
     "autoload": {
         "psr-4": {
